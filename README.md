@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi! I´m <a href="https://ismaelorr.com">Ismaelorr</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://github.com/ismaelorr/ismaelorr/blob/main/banner.png">
 
 
 ## About me
